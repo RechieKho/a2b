@@ -3,10 +3,11 @@
 Why C if you can type in binary? 
 
 Feature:
+- Extremely small in size
 - Blazingly fast (TM)
 - Standalone (doesn't require other library)
 - Theoretically can compile into any kind of file with any kind of format (from executable to linux kernel)
-- extremely verbose
+- Extremely verbose
 
 ## SYNOPSIS
 ```
